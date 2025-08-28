@@ -1,0 +1,4 @@
+# dns 分流
+IP-CIDR,8.8.8.8/32
+IP-CIDR,8.8.4.4/32
+DOMAIN-KEYWORD,dns.google
