@@ -14,3 +14,11 @@ DOMAIN-SUFFIX,bocmacau.com
 
 # 中银国际
 DOMAIN-SUFFIX,bankofchina.com
+
+# 渣打
+DOMAIN-SUFFIX,sc.com
+
+# 汇丰
+DOMAIN-SUFFIX,hsbc.com
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbc.com.cn
