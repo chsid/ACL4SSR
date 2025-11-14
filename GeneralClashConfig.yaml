@@ -132,7 +132,7 @@ geosite-matcher: succinct
 # memconservative：专为内存受限 (小内存) 设备优化的加载器 (默认值)
 geodata-loader: standard
 # 自动更新 GEO
-geo-auto-update: false
+geo-auto-update: true
 # 更新间隔，单位为小时
 geo-update-interval: 24
 # 自定 GEO 下载地址
