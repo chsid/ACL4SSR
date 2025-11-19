@@ -5,20 +5,3 @@ PROCESS-NAME,tailscale
 PROCESS-NAME,tailscaled
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io
-
-# 中银香港
-DOMAIN-SUFFIX,bochk.com
-
-# 中银澳门
-DOMAIN-SUFFIX,bocmacau.com
-
-# 中银国际
-DOMAIN-SUFFIX,bankofchina.com
-
-# 渣打
-DOMAIN-SUFFIX,sc.com
-
-# 汇丰
-DOMAIN-SUFFIX,hsbc.com
-DOMAIN-SUFFIX,hsbc.com.hk
-DOMAIN-SUFFIX,hsbc.com.cn
