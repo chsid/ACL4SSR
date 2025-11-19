@@ -164,8 +164,8 @@ dns:
   use-system-hosts: true
   respect-rules: true
   proxy-server-nameserver:
-    - tls://dot.pub
     - quic://dns.alidns.com
+    - tls://dot.pub
   default-nameserver: 
     - 223.5.5.5
     - 119.29.29.29
@@ -174,8 +174,8 @@ dns:
     - '[2402:4e00::]'
     - '[2001:4860:4860::8888]'
   nameserver:
-    - tls://dot.pub
     - quic://dns.alidns.com
+    - tls://dot.pub
   fallback:
     - tls://dns.google
   fallback-filter:
